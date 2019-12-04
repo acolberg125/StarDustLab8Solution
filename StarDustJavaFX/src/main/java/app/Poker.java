@@ -262,7 +262,7 @@ public class Poker extends Application {
 		 * @since Lab #6
 		 * 
 		 * serverShutdown - run this when shutdown is detected.
-		 * 
+		 * use this throughout the project
 		 * Server is going to send any "Action" message to the Hub.
 		 */
 		
